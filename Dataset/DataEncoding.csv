@@ -1,0 +1,73 @@
+,Name,Age,TEA_consumption,Coffee_consumption,EnergyDrinks_consumption,SoftDrinks_consumption,Milk_consumption,Juices_consumption,TEA_sleepingPattern,Coffee_sleepingPattern,EnergyDrinks_sleepingPattern,SoftDrinks_sleepingPattern,Milk_sleepingPattern,Juices_sleepingPattern,SleepingSchedule,BeveragesAfftectingSleep
+0,Yagnesh,2,1,0,0,0,1,0,3,3,2,2,2,2,2,1
+1,Omikumar Makadia,0,2,3,0,1,1,0,2,3,3,2,2,2,2,1
+2,Devyash Shah,0,0,2,0,1,0,1,0,2,2,2,2,2,1,0
+3,Om Shah ,2,2,2,0,0,1,1,3,3,0,0,2,2,4,0
+4,Sarthak dave,0,3,3,1,1,1,0,2,2,2,2,1,2,2,0
+5,Pratham,2,4,1,1,2,0,0,2,3,2,2,1,2,1,1
+6,Akshat Shah,0,0,1,0,1,2,1,0,2,0,2,2,2,2,0
+7,Kuntal Panchal ,2,0,1,0,0,1,1,0,2,0,0,2,2,2,0
+8,Astha Bhalodiya,0,0,1,0,0,1,1,0,2,0,0,2,2,1,0
+9,Dhruvil Patel,0,0,1,0,0,0,0,0,2,0,0,0,0,2,0
+10,Raj Dave,2,0,2,0,0,2,0,0,2,0,0,2,0,2,1
+11,Dev Shah ,0,0,0,0,0,1,1,0,3,0,0,2,2,1,0
+12,Kashish Shah,0,1,1,1,0,3,1,2,2,3,0,2,2,1,0
+13,Darshan Khatra ,0,1,1,0,1,2,1,2,0,3,2,2,1,2,1
+14,Vishwa Joshi ,2,1,3,1,1,0,0,2,3,3,0,0,0,1,1
+15,Ushmay patel ,0,0,2,0,1,2,0,0,2,0,2,2,0,2,0
+16,Abhimanyu Negi,0,0,0,0,1,2,3,0,0,0,2,2,2,1,0
+17,Sahil Kothari,0,0,0,0,2,1,2,0,0,3,2,1,2,1,0
+18,Preksha,0,0,1,0,1,0,2,0,3,0,2,1,2,1,1
+19,Anshi Shah,0,0,2,1,0,1,1,0,2,2,2,2,2,1,0
+20,Yukta Patel ,0,0,0,0,1,2,1,0,0,0,2,2,2,2,0
+21,Neilay Bhatt,0,2,2,0,1,2,1,2,3,0,2,2,2,1,0
+22,Deep Vadher,0,1,1,0,0,2,2,0,0,0,0,0,0,2,1
+23,Harsh Bhanderi ,2,3,0,0,0,0,1,2,0,0,0,0,0,2,0
+24,Khushee Vakil ,0,2,1,0,1,2,1,2,0,0,2,2,2,2,1
+25,Madhvendrasinh Jhala,0,3,2,0,1,2,2,2,2,0,2,2,2,2,0
+26,Pooja ,0,0,1,0,2,2,2,0,2,1,2,1,2,1,0
+27,Nihar Kalolia ,0,1,1,0,0,1,1,2,3,0,2,2,2,1,1
+28,Omkar Pandya ,0,2,1,0,3,5,2,2,2,2,2,1,2,1,0
+29,Raj Jani,0,1,0,0,0,0,3,2,3,0,3,0,2,2,0
+30,Twinkle Popat ,0,1,0,1,1,1,2,2,2,2,2,1,2,1,0
+31,Vatsal,0,2,0,0,1,1,0,2,0,0,2,2,2,2,0
+32,Malay Patel,1,2,1,1,1,2,1,1,2,2,2,3,1,0,1
+33,Shubham Bhatt,0,2,1,1,1,2,2,3,3,0,0,3,1,2,1
+34,Aarav Jadav,2,2,3,0,1,0,1,2,3,2,2,2,2,0,0
+35,Rohan Parikh,0,1,0,0,0,1,1,2,0,0,0,2,2,2,0
+36,Ruchit,0,1,0,0,1,1,1,2,0,0,2,2,2,2,0
+37,Jeet,2,2,0,0,2,2,0,2,0,0,2,2,0,1,0
+38,Viraj Boghani,0,3,0,0,1,3,2,2,0,0,3,2,2,1,1
+39,Prashasti Srivastava ,0,1,3,0,0,4,1,2,2,0,0,2,2,1,0
+40,Divyashree Jadeja,0,1,3,0,1,4,2,0,3,0,2,1,2,2,1
+41,Jay Thakkar ,2,2,0,0,1,1,1,3,0,0,2,1,2,2,0
+42,Aastha Gaudani ,0,1,4,1,3,5,4,0,3,3,3,2,2,1,1
+43,Anannya ,0,0,0,0,1,1,1,0,0,3,2,2,2,1,0
+44,Kunj kanzariya ,2,1,0,0,1,2,3,2,3,3,2,2,2,1,1
+45,Vatsal Barai,2,1,0,0,1,0,1,2,0,2,3,1,3,2,1
+46,Kashish Jethmalani ,0,1,1,0,0,1,0,2,3,0,0,2,0,3,0
+47,Deval,2,2,0,0,0,0,0,2,0,0,0,0,0,1,0
+48,Priyal Malakar,2,1,1,0,2,2,2,0,2,0,3,2,2,0,0
+49,Mrugen Fichadia,0,3,3,0,0,5,1,2,2,0,0,2,0,2,0
+50,Tej Thakar ,0,3,2,0,1,3,2,2,2,2,2,2,2,1,0
+51,Kashish Jivani,0,2,0,0,1,1,0,3,0,0,2,2,0,2,0
+52,Amaan Mansuri ,0,0,1,1,2,2,3,0,2,3,1,1,2,1,0
+53,Shrey,0,2,1,0,1,2,1,2,2,0,2,2,2,1,0
+54,Merin Joseph ,2,2,3,1,2,3,3,2,3,2,2,2,2,2,1
+55,Freyal Shah,0,0,1,0,0,1,1,0,2,0,0,2,2,2,0
+56,Aarjav Jani,2,0,0,1,1,1,1,0,0,2,2,2,2,2,0
+57,Shine Priyan ,2,2,2,1,2,1,1,3,2,2,2,1,2,1,1
+58,Ishva vyas,0,2,4,0,3,5,3,2,3,0,2,2,2,2,0
+59,Jerin Joseph ,0,1,0,2,3,5,4,0,0,2,2,2,2,3,0
+60,Khush Jigneshkumar Soni,2,3,2,2,3,2,3,2,2,1,1,2,1,1,1
+61,Shubham,2,3,1,1,1,2,1,2,2,2,2,2,2,1,0
+62,Rushali Moteria,0,1,0,0,2,5,4,2,0,2,2,2,2,2,0
+63,Rahi Shah,0,0,4,1,1,2,1,0,3,3,2,2,2,1,1
+64,Samarth Chauhan,0,2,0,0,0,2,0,2,0,0,1,2,2,2,0
+65,Kishan Akbari,0,4,1,1,1,2,1,3,1,2,2,3,1,2,1
+66,Nishtha Sinha,1,2,1,0,0,1,0,2,2,0,0,2,0,3,0
+67,Razin Karimi,2,3,0,0,1,1,1,2,0,3,2,2,2,3,0
+68,Krina Khakhariya,0,3,0,1,1,1,1,2,0,2,2,2,1,1,0
+69,Umang Patel,0,1,0,0,0,1,0,2,0,0,0,2,0,1,0
+70,Paridhi Jain,2,0,0,0,1,3,3,0,1,0,2,2,2,2,0
+71,Venil shah,2,2,0,1,1,0,0,2,0,2,2,0,0,3,0
